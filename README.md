@@ -23,7 +23,7 @@ Any direct rearrangements/restorations/recreations of the music from Halo 1 shou
 It is not my intention to infringe on/plagiarize/profit of any kind from that work.
 For me, this project is out of passion for the original soundtrack, and an exercise to improve my technique making music, and gain more insight into the development process behind the music of Halo. Please be sure to credit the real heroes behind this stuff and indicate this is a cover where it applies.
 
-Everything here is free to use for content involving/related to Halo: Combat Evolved or Halo Custom Edition. This means stuff like CE maps, but also includes media like YouTube videos that are about Halo content. Feel free to use this stuff as background music for your videos if that's something you want to do! Just be sure to note down somewhere that these are covers by me (Neo Te Aika), based on (for covers) or inspired by (for new/original stuff) the Halo Original Soundtrack.
+Everything here is for use in content related to Halo: Combat Evolved or Halo Custom Edition. This means CE maps, but also includes media like YouTube videos of Halo content. Feel free to use this music for videos! Just be sure to link this github project as a credit (mainly to read this disclaimer).
 
 # INFO FOR MUSIC PEOPLE
 
