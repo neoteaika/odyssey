@@ -28,10 +28,7 @@ Everything here is for use in content related to Halo: Combat Evolved or Halo Cu
 # INFO FOR MUSIC PEOPLE
 
 Equipment used in this project.
-`E-mu Procussion
-E-mu Virtuoso 2000
-Roland JV-1010`/
+`E-mu Procussion, E-mu Virtuoso 2000, Roland JV-1010`/
 
 Equipment confirmed as used in the original 2001 soundtrack.
-`E-mu Virtuoso 2000 / Proteus 2000
-Roland JD-990, Roland XV-5080/`
+`E-mu Virtuoso 2000 / Proteus 2000, Roland JD-990, Roland XV-5080/`
