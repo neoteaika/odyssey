@@ -27,14 +27,11 @@ Everything here is for use in content related to Halo: Combat Evolved or Halo Cu
 
 # INFO FOR MUSIC PEOPLE
 
-Gear I'm using | (What it "replaces") | Examples of where it was used in the soundtrack.
+Equipment used in this project.
+  E-mu Procussion
+  E-mu Virtuoso 2000
+  Roland JV-1010
 
-Exact matches
-
-Roland JV-1010 | (Roland XV-5080 & Roland JD-990) | Synthetic vox from Under Cover Of Night, weird noises from Alien Corridors, main "backbone" from Devils... Monsters..., water-y sound from main menu and Library Suite, synth bass sequence from Covenant Dance
-
-E-mu Procussion & Proteus VX (Proteus Plus Orchestral and Proteus 3) | (E-mu Proteus 2000 - Protoza expansion board) | Rhythm percussion from The Gun Pointed At The Head Of The Universe, echo-y drum part of Under Cover Of Night. Also the drum pattern from Halo 2 - Impend
-
-Possible matches
-
-E-mu Virtuoso 2000 - Cello & other strings from main Halo theme, may also be used for Lament for Pvt. Jenkins and Enough Dead Heroes
+Equipment confirmed as used in the original 2001 soundtrack.
+  E-mu Virtuoso 2000 / Proteus 2000
+  Roland JD-990, Roland XV-5080
