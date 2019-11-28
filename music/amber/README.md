@@ -1,5 +1,6 @@
-# IN AMBER CLAD - CE Mix Test
+# IN AMBER CLAD - CE Mix
 Key - B Flat Minor
+
 Time Signature - 4/4, 68BPM
 
 Progress - Sequencing under construction. Articulation is quantized.

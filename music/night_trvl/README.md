@@ -1,4 +1,4 @@
-# UNDER COVER OF NIGHT - CE Mix Test
+# TWILIGHT (UNDER COVER OF NIGHT)
 Key - C Minor
 
 Time Signature - 4/4, 90BPM
