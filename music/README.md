@@ -22,6 +22,14 @@ Directory for music designed for ingame use (action/looping/etc)
 			tracks - 6
 			sections - 1 (in, a)
 
+	iron - The Gun Pointed at the Head of the Universe
+		sq.v1 - 50%
+		inst.v1 - 80% (Percussion nearly finished, vox/synth in progress)
+		mx.v1 - 50%
+		stems - Yes (Percussion version only)
+			tracks - 
+			sections - 
+
 	night_trvl - Under Cover of Night [ST]
 		sq.v1 - 40%
 		inst.v1 - 70%
@@ -30,8 +38,10 @@ Directory for music designed for ingame use (action/looping/etc)
 			tracks - 13
 			sections - 4 (in, a, b, c)
 
-	iron - The Gun Pointed at the Head of the Universe
+	peril - Peril [ST]
 		sq.v1 - 50%
-		inst.v1 - 80% (Percussion nearly finished, vox/synth in progress)
-		mx.v1 - 50%
-		stems - Not Yet
+		inst.v1 - 70%
+		mx.v1 - 70%
+		stems - Yes
+			tracks - 10
+			sections - 6 (in, a, b, c, alt-a, d)
