@@ -1,7 +1,6 @@
 # Odyssey: A Halo Music Addendum Project.
-It's part of a wider idea, involving a sort of alternate campaign, with new locations and gameplay inspired by the presentation from E3 2000, while retaining a vanilla faithful feel.
-Odyssey is being completely developed first, before the bigger project begins. So what is it, really?
-
+Welcome to Odyssey! This is a project to provide a new and large, high quality music resource for use in Halo: Custom Edition.
+Odyssey is being completely developed first, before the bigger project begins. So what are the goals behind Odyssey?
 # COOL LETTERBOX CHAPTER TEXT HERE
 
 Tracking down the instruments and synthesizers used in the creation of the Halo: Combat Evolved score, which may allow for recreating the original soundtrack from the source, meaning the highest possible lossless audio quality. I am unsure how the game music files were treated in terms of compression and mastering, etc. This project will provide a high quality alternative source for adding classic sounding music to CE maps.
