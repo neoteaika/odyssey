@@ -1,3 +1,5 @@
+![Odyssey: A Halo Music Addendum Project.](\images\odnxm2.png)
+
 # Odyssey: A Halo Music Addendum Project.
 Welcome to Odyssey! This is a project to provide a new and large, high quality music resource for use in Halo: Custom Edition.
 Odyssey is being completely developed first, before the bigger project begins. So what are the goals behind Odyssey?
