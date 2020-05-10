@@ -12,5 +12,7 @@
 
 	string_low1 - Suite Autumn / Low C Glue [+] [^] (d40 Engine Room)
 
+	strnglp2 - Suite Autumn / Intro (a30 Spawn)
+
 # NEW TAGS
 	monks - Environmental Monks [$], High choir section mirrors the menu music from Halo 4.
