@@ -1,4 +1,4 @@
-Please note, this Github is considered deprecated for the moment. You can see the new, updated website and community resources at [Odyssey Audio](https://www.odysseyaudio.org)
+Please note, this repo is deprecated for the moment. You can see the new, updated website and community resources at [Odyssey Audio](https://www.odysseyaudio.org)
 
 ![Logo](images/ghlogo.png)
 
