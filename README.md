@@ -1,3 +1,5 @@
+Please note, this Github is considered deprecated for the moment. You can see the new, updated website and community resources at [Odyssey Audio](https://www.odysseyaudio.org)
+
 ![Logo](images/ghlogo.png)
 
 # Odyssey: A Halo Music Addendum Project.
