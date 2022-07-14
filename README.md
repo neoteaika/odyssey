@@ -1,19 +1,19 @@
 > *Please note, this repo was deprecated in 2020 when it became clear that the project file size for multiple FLAC and WAV audio files would not be feasible via GitHub. The [Odyssey Audio](https://www.odysseyaudio.org) website now maintains the latest information, and you can follow the project live at the [Halo Modding Reclaimers Discord.](https://discord.reclaimers.net)*
 
->*This page was last updated on **Thursday, 14th July, 7:45pm**, New Zealand Time.*
+>*This page was last updated on **Thursday, 14th July, 8:37pm**, New Zealand Time.*
 
-> *Actual project distribution will be reinvestigated closer to the first complete public release (audio stems, game tags and a campaign package including Odyssey music.)*
+> *Actual project distribution will be reinvestigated closer to the first complete public release (audio stems, game tags and a campaign package including Odyssey music are planned.)*
 *** 
 [![Logo](images/ghlogo.png)](https://odysseyaudio.org/)
 *** 
-# A Mythical Music Addendum Project.
-Since 2019, we've worked to archive details of the music of Halo CE (and 2/3 to a smal extent).
+# A Music Addendum Project.
+Since 2019, we've archived details of the music of Halo CE (and 2/3 to a small extent).
 
 [![Odyssey ViDoc #1: Opening The Gates](https://img.youtube.com/vi/m0sOhrJVCm4/maxresdefault.jpg)](https://youtu.be/m0sOhrJVCm4)
 
 	Click the above image to view a video on the project (November, 2021)
 
-From research of interviews, press articles and audio discussion fossilized on the *[Internet Archive](https://archive.org/)*, to direct confirmations and reminiscence by the legacy audio team, and our own technical and sonic studies and reconstructions on the same hardware used in Halo's production, Odyssey encompasses a great journey to accurately and *authentically* reconstruct the Halo sound of the 2001 classic at a new, previously unrealized definitive quality.
+From research of interviews, press articles and audio discussion fossilized on the *[Internet Archive](https://archive.org/)*, to direct confirmations and reminiscence by the legacy audio team, and our own technical and sonic studies and reconstructions on the same hardware used in Halo's production, Odyssey encompasses a great journey to accurately and *authentically* reconstruct the Halo sound of the 2001 classic at a definitive quality.
 
 [![Website](images/webprev.png)](https://odysseyaudio.org)
 
@@ -49,7 +49,7 @@ Some of the core team's work on Odyssey already, and their future milestones inc
 	* Premade tag releases, a "drop & go" format that is already ready to use with game engine development tools (Halo Custom Edition Editing Kit, Halo CE Mod Tools, H2 Mod Tools, etc)
 	* Complete audio stems and loops available for all components of both the 1:1 and enhanced recreations in 44khz and 96khz, in 320kbps OGG Vorbis, 24-bit FLAC and 16-bit WAV.
 	* MIDI track releases and subsequent "transcriptions" of our recreations of the original music.
-	* REAPER project releases (including stems, audio tracks, information on VST plugins) for all tracks produced in REAPER (some tracks are produced in other DAWs)
+	* [REAPER](https://reaper.fm) project releases (including stems, audio tracks, information on VST plugins) for all tracks produced in REAPER (some tracks are produced in other DAWs)
 	* Additional documentation including compositional and technical notes.
 	* (Free) "arranged" albums of all Odyssey material that mirrors the structure of the official soundtracks, available on [Bandcamp](https://music.neoteaika.com), [Discord](https://discord.reclaimers.net), the [Odyssey Audio](https://odysseyaudio.org/) website and [ModDB](https://www.moddb.com/mods/halo-odyssey).
 *** 
@@ -71,16 +71,17 @@ Some of the core team's work on Odyssey already, and their future milestones inc
 # INFO FOR AUDIO PEOPLE
 
 The full index is available on our [Odyssey Audio Spreadsheet](https://odysseyaudio.org/spreadsheet), but here is a shortlist of known synthesizers used in Halo's production:
-+ E-MU Proteus, Proteus 2, Proteus 3 (only used in 1999)
-+ E-MU Procussion
-+ E-MU Proteus 2000 (Composer & Protozoa ROM)
-+ E-MU Emulator IV (E4XT Ultra)
-+ Kurzweil K2500X (Base, Contemporary & Orchestral ROM)
-+ Roland JD-990
-+ Roland XV-5080 (SRX-06 Complete Orchestra)
++ [E-MU Proteus, Proteus 2, Proteus 3](https://www.vintagesynth.com/emu/proteus.php) (only used in 1999)
++ [E-MU Procussion](https://www.vintagesynth.com/emu/procussion.php)
++ [E-MU Proteus 2000](https://www.vintagesynth.com/emu/proteus2k.php) (Composer & Protozoa ROM)
++ [E-MU Emulator IV](https://www.vintagesynth.com/emu/emulator4) (E4XT Ultra)
++ [Kurzweil K2500X](https://www.vintagesynth.com/kurzweil/k2500.php) (Base, Contemporary & Orchestral ROM)
++ [Roland JD-990](https://www.vintagesynth.com/roland/jd990.php)
++ [Roland XV-5080](https://www.vintagesynth.com/roland/xv5080.php) (SRX-06 Complete Orchestra)
 
-Known DAWs used during Halo CE's production :
-+ Opcode Studio Vision Pro 4+, 1998 (Mac OS 9)
-+ MOTU Digital Performer 3+, 2001 (Mac OS 9-Max OSX)
-+ Digidesign Pro Tools 5~, 1999 (Mac OS 9-Mac OSX)
-+ BIAS Peak 2.02+, 1998 (Mac OS 9)
+Known audio software used during Halo CE's production :
++ [Opcode Studio Vision Pro 4+](https://www.soundonsound.com/reviews/opcode-studio-vision-pro-4), 1998 (Mac OS 8+)
++ [MOTU Digital Performer 3+](https://www.soundonsound.com/reviews/motu-digital-performer-v3), 2001 (Mac OS 9+
++ [Digidesign Pro Tools 5~](https://www.soundonsound.com/reviews/digidesign-pro-tools), 1999 (Mac OS 9+)
++ [BIAS Peak 2 + Waves TrueVerb & BIAS SFX Machine)](https://www.soundonsound.com/reviews/bias-peak-v16), 1998 (Mac OS 8+)
++ [Waves Gold (2.0+)](https://www.soundonsound.com/reviews/waves-native-power-pack-ii), 1998 (Mac OS 8+
