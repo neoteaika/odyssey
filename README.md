@@ -47,7 +47,7 @@ Some of the core team's work on Odyssey already, and their future milestones inc
 
 + Releasing all assets and resources of Odyssey's development across a range of formats:
 	* Premade tag releases, a "drop & go" format that is already ready to use with game engine development tools (Halo Custom Edition Editing Kit, Halo CE Mod Tools, H2 Mod Tools, etc)
-	* Complete audio stems and loops available for all components of both the 1:1 and enhanced recreations in 44khz and 96khz, in 320kbps OGG Vorbis, 24-bit FLAC and 16-bit WAV.
+	* Complete audio stems and loops available for all components of both the 1:1 and enhanced recreations in in 320kbps OGG Vorbis and 16-bit WAV, 44.1khz, and (soundtrack/soundtrack stems only) 24-bit FLAC, 96khz.
 	* MIDI track releases and subsequent "transcriptions" of our recreations of the original music.
 	* [REAPER](https://reaper.fm) project releases (including stems, audio tracks, information on VST plugins) for all tracks produced in REAPER (some tracks are produced in other DAWs)
 	* Additional documentation including compositional and technical notes.
