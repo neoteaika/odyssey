@@ -1,6 +1,6 @@
 > *Please note, this repo was deprecated in 2020 when it became clear that the project file size for multiple FLAC and WAV audio files would not be feasible via GitHub. The [Odyssey Audio](https://www.odysseyaudio.org) website now maintains the latest information, and you can follow the project live at the [Halo Modding Reclaimers Discord.](https://discord.reclaimers.net)*
 
->*This page was last updated on **Thursday, 14th July, 8:37pm**, New Zealand Time.*
+>*This page was last updated on **Saturday 16th July 2022, 00:28am**, New Zealand Time.*
 
 > *Actual project distribution will be reinvestigated closer to the first complete public release (audio stems, game tags and a campaign package including Odyssey music are planned.)*
 *** 
